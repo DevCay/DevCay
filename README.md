@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter and subjects in common
 - 🌱 I’m currently learning about programing
 - 💞️ I’m looking to collaborate on everything i can
-- 📫 How to reach me: caydigital@gmail.com
+- 📫 How to reach me: caynaboaes@gmail.com
 
 <!---
 DevCay/DevCay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
