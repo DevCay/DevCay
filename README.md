@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevCay
-- 👀 I’m interested in Flutter and subjects in common
+- 👀 I’m interested in Flutter, JavaScript, React and subjects in common
 - 🌱 I’m currently learning about programing
 - 💞️ I’m looking to collaborate on everything i can
 - 📫 How to reach me: caynaboaes@gmail.com
