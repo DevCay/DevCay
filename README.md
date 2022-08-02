@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Caynã, sou desenvolvedor jr.
 - 🌱 Atualmente tenho estudado programação, mas já programo em JavaScript, Python, Dart e tenho o básico de TypeScript, além de saber HTML e CSS.
-- 💞️ Já usei framworks como Flutter, NodeJS e ReactJS. Alguns projetos utilizando essa tecnologias estão presentes nos meus repositórios.
+- 💞️ Já usei frameworks como Flutter, NodeJS e ReactJS. Alguns projetos utilizando essa tecnologias estão presentes nos meus repositórios.
 - 📫 How to reach me: caynaboaes@gmail.com
 
 <!---
